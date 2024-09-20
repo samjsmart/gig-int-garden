@@ -11,8 +11,10 @@
     "update-modules": "node ./scripts/clearModules.js && hugo mod clean --all && hugo mod get -u ./... && hugo mod tidy",
     "update-theme": "node ./scripts/themeUpdate.js",
     "format": "prettier -w .",
-    "publish": "aws s3 sync public/ s3://giginthe.garden --delete",
-    "clean": "rm -rf public/ resources/ && hugo mod clean"
+    "upload": "aws s3 sync public/ s3://giginthe.garden --delete",
+    "cloudfront": "aws cloudfront create-invalidation --distribution-id E179KU1JKG3LG --paths '/*'",
+    "clean": "rm -rf public/ resources/ && hugo mod clean",
+    "publish": "npm run clean && npm run build && npm run upload && npm run cloudfront"
   },
   "devDependencies": {
     "@tailwindcss/forms": "^0.5.7",
