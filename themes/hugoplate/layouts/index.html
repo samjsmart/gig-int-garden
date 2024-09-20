@@ -11,6 +11,9 @@
             <p class="mb-8">
               {{ .content | markdownify }}
             </p>
+            <p class="mb-8">
+              <strong>{{ .date | markdownify }}</strong>
+            </p>
             {{ with .button }}
               {{ if .enable }}
                 <a

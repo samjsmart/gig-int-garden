@@ -4,6 +4,7 @@ banner:
   title: "Live Music, Poolside Fun, and Summer Sun"
   content: "A garden gig is happening August 2025 — expect live bands, a DJ, the pool, and a tiki bar! For those looking for laughs, good music, and great company, sign up to let us know you're coming."
   image: "/images/gig-logo-small.png"
+  date: August 2025 (Date coming shortly)
   button:
     enable: true
     label: "Join the Party"

@@ -1,15 +1,20 @@
 ############# English navigation ##############
 
 # main menu
-# [[main]]
-# name = "Home"
-# url = "/"
-# weight = 1
+[[main]]
+name = "Home"
+url = "/"
+weight = 1
 
-# [[main]]
-# name = "Sign Up"
-# url = "/sign-up"
-# weight = 2
+[[main]]
+name = "Garden Map"
+url = "/garden-map"
+weight = 2
+
+[[main]]
+name = "Lineup"
+url = "/lineup"
+weight = 3
 
 # footer menu
 [[footer]]
