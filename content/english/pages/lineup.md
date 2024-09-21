@@ -4,24 +4,20 @@ meta_title: ""
 description: "This is meta description"
 layout: "lineup"
 draft: false
-noActs: |
-  ### Such empty
-  Boo. Acts will appear here as they're confirmed 🔥
+acts:
+  - name: DJ Steno
+    description: DJ STENO has been mixing tunes in the UK for 10 years. Creating good energy and mixes for all.
+    image: /images/djsteno.jpg
+    social:
+      - name: instagram
+        icon: fa-brands fa-instagram
+        link: https://www.instagram.com/djsteno/
 
-# acts:
-#   - name: My band!
-#     description: This band is awesome.
-#     image: /images/band-placeholder.png
-#     social:
-#       - name: facebook
-#         icon: fa-brands fa-facebook
-#         link: https://facebook.com
+      - name: soundcloud
+        icon: fa-brands fa-tiktok
+        link: https://www.tiktok.com/@dj_steno
 
-#       - name: instagram
-#         icon: fa-brands fa-instagram
-#         link: https://instagram.com
-
-#       - name: soundcloud
-#         icon: fa-brands fa-soundcloud
-#         link: https://soundcloud.com
+      - name: youtube
+        icon: fa-brands fa-youtube
+        link: https://www.youtube.com/channel/UC5kOxdlZT5qs0dTmiTbSgwQ
 ---
