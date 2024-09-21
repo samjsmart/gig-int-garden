@@ -24,9 +24,9 @@ features:
       - "An inflatable rodeo for some friendly competition and laughs"
       - "Chilled-out garden spaces to relax and enjoy the music"
     button:
-      enable: false
-      label: ""
-      link: ""
+      enable: true
+      label: "Explore"
+      link: "/explore"
 
   - title: "Find Your Way"
     image: "/images/map.png"

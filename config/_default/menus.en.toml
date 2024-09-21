@@ -7,8 +7,8 @@ url = "/"
 weight = 1
 
 [[main]]
-name = "Garden Map"
-url = "/garden-map"
+name = "Explore"
+url = "/explore"
 weight = 2
 
 [[main]]
