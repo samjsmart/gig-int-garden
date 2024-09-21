@@ -8,7 +8,7 @@ banner:
   button:
     enable: true
     label: "Join the Party"
-    link: "/contact"
+    link: "/register"
 
 # Features
 features:
