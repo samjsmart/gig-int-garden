@@ -1,8 +1,8 @@
 <div
   class="bg-theme-light dark:bg-darkmode-theme-light rounded p-8 text-center">
   {{ partial "image" (dict "Src" .image "Context" .Page "Alt" .Title "Class" "mx-auto mb-6 rounded" "size" "120x120") }}
-  <h4 class="mb-3">
-    <a href="{{ .RelPermalink }}">{{ .name }}</a>
+  <h4 class="mb-2">
+    {{ .name }}
   </h4>
   <p class="mb-4">
     {{ .description }}

@@ -20,4 +20,15 @@ acts:
       - name: youtube
         icon: fa-brands fa-youtube
         link: https://www.youtube.com/channel/UC5kOxdlZT5qs0dTmiTbSgwQ
+  - name: Pete Jackson
+    description: Six years since the release of his debut album ‘Two Birds’ and three years since turning pain into power with his debut single ‘I Still Believe’, Pete has been forever evolving but never letting up. 
+    image: /images/petejackson.jpeg
+    social:
+      - name: instagram
+        icon: fa-brands fa-instagram
+        link: https://www.instagram.com/petejacksonlive/
+
+      - name: spotify
+        icon: fa-brands fa-spotify
+        link: https://open.spotify.com/artist/7hHLK4elXrAY5Hdw7Qq4D8?si=nS0X67mPR76rezy5G21xcw
 ---
