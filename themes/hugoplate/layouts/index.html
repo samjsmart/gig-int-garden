@@ -12,7 +12,8 @@
               {{ .content | markdownify }}
             </p>
             <p class="mb-8">
-              <strong>{{ .date | markdownify }}</strong>
+              <strong>{{ .date | markdownify }}*</strong><br/>
+              <em class="text-xs">* may change once convention dates are announced</em>
             </p>
             {{ with .button }}
               {{ if .enable }}
