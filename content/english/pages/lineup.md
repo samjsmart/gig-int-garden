@@ -40,4 +40,15 @@ acts:
       - name: instagram
         icon: fa-brands fa-instagram
         link: https://www.instagram.com/paradym_band/
+  - name: Ellie Rialas
+    description: |-
+      Ellie Rialas is a singer-songwriter from the southwest of England, known for her catchy acoustic pop and rock tunes. Her music blends a laid-back acoustic feel with an upbeat, fun energy.
+    image: /images/ellie.jpeg
+    social:
+      - name: instagram
+        icon: fa-brands fa-instagram
+        link: https://www.instagram.com/ellie_rialas
+      - name: soundcloud
+        icon: fa-brands fa-soundcloud
+        link: https://on.soundcloud.com/33nuUadomxypkqAZ7
 ---
