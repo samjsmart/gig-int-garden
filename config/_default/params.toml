@@ -39,7 +39,7 @@ preloader = "" # use jpg, png, svg or gif format.
 [navigation_button]
 enable = true
 label = "register"
-link = "register"
+link = "https://www.eventbrite.co.uk/e/gig-in-the-garden-tickets-1264822170159"
 
 # search
 # search module: https://github.com/gethugothemes/hugo-modules/tree/master/search

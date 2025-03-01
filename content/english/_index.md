@@ -8,7 +8,7 @@ banner:
   button:
     enable: true
     label: "Join the Party"
-    link: "/register"
+    link: "https://www.eventbrite.co.uk/e/gig-in-the-garden-tickets-1264822170159"
 
 # Features
 features:
